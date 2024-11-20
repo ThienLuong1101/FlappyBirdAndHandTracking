@@ -1,10 +1,10 @@
-# FlappyBirdAndHandTracking
+# Flappy Bird with Hand Gesture Control
 
 I took assets from https://github.com/LeonMarqs/Flappy-bird-python | credit for him
 
 install pygame, opencv-python, mediapipe
 
-# Flappy Bird with Hand Gesture Control
+
 
 A Python implementation of Flappy Bird that uses hand gestures for control, combining computer vision with game mechanics to create an interactive gaming experience.
 
