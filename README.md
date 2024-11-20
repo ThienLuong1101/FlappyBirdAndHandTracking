@@ -8,6 +8,8 @@ install pygame, opencv-python, mediapipe
 
 A Python implementation of Flappy Bird that uses hand gestures for control, combining computer vision with game mechanics to create an interactive gaming experience.
 
+##Demo Video: https://www.linkedin.com/feed/update/urn:li:activity:7219526168079712258/
+
 ## Core Mechanism: Hand Detection & Game Integration
 
 ### Hand Detection System
